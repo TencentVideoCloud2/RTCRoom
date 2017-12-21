@@ -22,13 +22,14 @@ RTCRoom的小程序及后台方案基于腾讯云的 Wafer解决方案，该方�
 
 ![](https://mc.qcloudimg.com/static/img/6439160b7f1d0c0fc170e814d5b182c3/image.jpg)
    
-该方案详细交互流程图请参考：【待完善】
-该方案目前主要用于在线直播、在线培训、在线电玩类应用场景，具体参考[单向音视频应用场景](https://cloud.tencent.com/document/product/454/7873#iOS) 
+  该方案详细交互流程图请参考：【待完善】
+  该方案目前主要用于在线直播、在线培训、在线电玩类应用场景，具体参考[单向音视频应用场景](https://cloud.tencent.com/document/product/454/7873#iOS) 
 
 ### 双人与多人音视频解决方案
 ![多人音视频](https://mc.qcloudimg.com/static/img/619d515f6955ec3430caf6e7e7cd761d/image.jpg)
-该方案详细交互流程图请参考：[多人音视频交互图](https://mc.qcloudimg.com/static/img/a4aff101682c72db8ee5651a899034bb/RTX20171220-161158.png)
-该方案目前主要用于车险定损、客服类、多人会话、双人会话类应用场景，具体参考[双人多人会话应用场景](https://cloud.tencent.com/document/product/454/7873#iOS) 
+  
+  该方案详细交互流程图请参考：[多人音视频交互图](https://mc.qcloudimg.com/static/img/a4aff101682c72db8ee5651a899034bb/RTX20171220-161158.png)
+  该方案目前主要用于车险定损、客服类、多人会话、双人会话类应用场景，具体参考[双人多人会话应用场景](https://cloud.tencent.com/document/product/454/7873#iOS) 
 
 ## 开发者资源
 
