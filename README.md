@@ -51,7 +51,7 @@ RTCRoom的小程序及后台方案基于腾讯云的 Wafer解决方案，该方�
     - [自行部署指引](https://cloud.tencent.com/document/product/454/7873#iOS) - 自己本地部署及服务端部署
     - [客户如何接入自有系统](https://cloud.tencent.com/document/product/454/7873#iOS) - 如何将现有的服务端代码接入客户自己的系统
  * 其他终端
-  - [终端部署指引](https://cloud.tencent.com/document/product/454/7873#iOS) -       IE插件、windows、IOS、Android终端部署指引
+    - [终端部署指引](https://cloud.tencent.com/document/product/454/7873#iOS) -       IE插件、windows、IOS、Android终端部署指引
 
 
 
